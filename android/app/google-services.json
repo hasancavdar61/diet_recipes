@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31457245766",
+    "project_id": "dietapp-one",
+    "storage_bucket": "dietapp-one.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31457245766:android:9d429f85de94b35200e847",
+        "android_client_info": {
+          "package_name": "com.example.diet_recipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31457245766-kn6d6konk6qtsolmvv44tranfh1ucq1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4XfB-Cxfs2sinzsSOdaYHaOH0aGCj1WY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31457245766-kn6d6konk6qtsolmvv44tranfh1ucq1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
